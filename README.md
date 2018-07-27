@@ -1,0 +1,2 @@
+# scitemacs
+scite configure files 
