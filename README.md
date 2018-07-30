@@ -1,5 +1,5 @@
 
-# scitemacs - A scite version  by YIPF.
+# scitemacs - A scite version inspired by emacs.
 
 ## Features: 
  - Smart tab: expanding snippet, path, fold according to context around the cursor. 
